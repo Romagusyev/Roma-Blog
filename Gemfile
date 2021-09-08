@@ -52,7 +52,7 @@ group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console', '>= 3.3.0'
   # Make errors better
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
